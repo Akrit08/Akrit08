@@ -1,4 +1,4 @@
-- 👋 # Hi, I’m Akrit Malla
+- 👋 Hi, **I’m Akrit Malla**
 - 👀 I’m interested in Web page development and Software Development.
 - 🌱 I recently graduated with BSc in Computing Science degree from 
       Saint Mary's University, Halifax, NS, Canada.
