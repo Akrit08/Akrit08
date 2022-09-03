@@ -4,4 +4,4 @@
       Saint Mary's University, Halifax, NS, Canada.
 - :sparkles:  Currently, I'm applying for jobs and sharpening myself through 
       the use of Hackerrank and Leetcode.     
-- 📫 You can reach me through my email: akrit.malla@yahoo.com
+- 📫 You can reach me through my email: akrit.malla@gmail.com
